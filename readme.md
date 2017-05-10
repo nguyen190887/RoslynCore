@@ -1,0 +1,1 @@
+This is a sample project to demo how .net core & Roslyn work together. Some codes are got from following topic: https://msdn.microsoft.com/magazine/mt808499?MC=Vstudio&MC=.NET&MC=CSHARP&MC=MSAzure&MC=Python
